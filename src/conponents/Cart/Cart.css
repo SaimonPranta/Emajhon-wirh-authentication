@@ -1,0 +1,23 @@
+.button-control{
+    background-color: yellow;
+    border:1px solid lightgray;
+    border-radius:4px;
+}
+.nav-control{
+    text-decoration: none;
+}
+.cart h3{
+    font-size:3vw;
+}
+.cart p{
+    font-size:2vw;
+}
+.cart h4{
+    font-size:1.8vw;
+    font-weight: 800;
+}
+.cart button{
+    font-size:2.2vw;
+    font-weight: 550;
+    margin-bottom:5px;
+}

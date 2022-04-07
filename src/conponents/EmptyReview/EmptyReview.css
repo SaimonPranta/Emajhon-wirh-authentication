@@ -1,0 +1,10 @@
+.empty{
+    height: 75vh;
+    text-align: center;
+}
+.empty h1, .empty h2, .empty h3, .empty h5 .empty h6{
+    margin-top:10v;
+    color:red;
+    text-transform: uppercase;
+    font-size:4vw;
+}

@@ -1,0 +1,47 @@
+.main-product{
+    min-height:70vh;
+}
+.porduct-container{
+    border-bottom:1px solid lightgray;
+}
+.image{
+    width: 30%;
+}
+.image img{
+    width: 95%;
+    height: 100%;
+    
+}
+.product-name{
+    text-decoration: none;
+}
+
+.porduct-container button{
+    background-color: yellow;
+    border:1px solid lightgray;
+    border-radius:4px;
+  
+}
+.porduct-container h6{
+    font-size:1vw;
+    margin-bottom:1.5px;
+}
+.porduct-container p{
+    font-size:1.1vw;
+    margin-bottom:1.5px;
+}
+.porduct-container span{
+    font-size:1.2vw;
+    margin-bottom:1.5px;
+}
+.porduct-container button{
+    font-size:1.2vw;
+    font-weight: 550;
+    margin-bottom:5px;
+    max-height: 120px;
+}
+.porduct-container svg{
+    height:2.7vw;
+}
+
+

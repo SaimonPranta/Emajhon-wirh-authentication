@@ -1,0 +1,40 @@
+.tween-conatiner{
+    display: flex;
+    max-width:1180px;
+}
+.product-container{
+    border-right: 1px solid lightgray;
+}
+.search-control{
+    background-color: #222222;
+    padding:20px;
+    text-align: center;
+    margin-bottom:8px;
+}
+.search-bar{
+    max-width: 1000px;
+    width: 70vw;
+    border-radius: 5px;
+    border:1px solid aqua;
+    
+}
+.cart-icon{
+    color:white;
+    display: inline;
+    margin-left:15px;
+    position: absolute;
+    
+}
+
+.cart-icon-after{
+    position:relative;
+    color:white;
+    display: inline;
+    right: 8px;
+    top:-14px;
+    background-color:red;
+    padding:2px 7px;
+    text-align: center;
+    border-radius:50%;
+    font-weight:750;
+}

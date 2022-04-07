@@ -1,0 +1,26 @@
+.header img{
+    max-height:80px;
+    height:8vh;
+    margin: 2px auto;
+    display: block;
+}
+.header nav{
+    background-color: black;
+    line-height: 40px;
+    font-size:20px;
+    text-align: center;
+}
+.header nav a{
+    text-decoration:none;
+    color:white;
+    padding:5px;
+    text-align: center;
+    font-weight: 600;
+}
+.header nav a:last-child{
+    position: relative;
+    left: 10%;
+}
+.header nav a:hover{
+    background-color: gray;
+}
